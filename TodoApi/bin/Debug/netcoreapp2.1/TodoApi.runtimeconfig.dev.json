@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\venkatesan.kuppan.GISBIZDEV\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\venkatesan.kuppan.GISBIZDEV\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
